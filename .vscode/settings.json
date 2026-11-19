@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Software\\mysql-connector-j-26.7.0\\mysql-connector-j-26.7.0\\mysql-connector-j-26.7.0.jar",
+        "d:\\Software\\flatlaf-3.5.4.jar",
+        "d:\\Software\\jbcrypt-0.4.jar"
+    ]
+}
